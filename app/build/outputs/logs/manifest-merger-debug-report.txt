@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\c9b6319c0cfe0a2c8ca89f9e8b08e413\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\ab77e4f6941f0a01ffae76167578d60f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\631271f33331761903e34839810bcd92\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\816fb7149e9710d796686c9912f9d4fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\48bd9c8c885bbc6f93107e5fa0acd89c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\f3a96eb496571be105756fa01c0f985b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\a488dd1ddeb7ef3efcf854f7bab88d00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\bf6fcb15645fb6bc67f5846e49880f97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\6f55551d94cefef2900471477a5bf78e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\7b2760303020ffbabb7cee96fe12f1ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\924183191ae8c467049771f44cab42d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\ead37f360c135cb91dc1642dfc4308fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\d9cb4e9eb36844b8a77af9016c32b0dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\2628cd62ce538bc7419588c0f0cdfd59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\90f3c86def8a0ae81b3936227c71efb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\7027bdbc6276ddbfa00eb06f60793dbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\df64f3cc7e9523baf23de8f87609e48b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\49ef68910f04370afd0bdc81615e67c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\5a7f0a2214f081fdff61f9fcaace6831\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\b5c31a081a250647ebac099ac5386fc6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\fedce93ee05dfc4765771507301fbfb5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\42f1d5342d7f6bd50c1c51b9940a2938\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\c6d378205ec50bdaa51b77a7139b6754\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\f9448dc5e5a29945e23a47c347cb828a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\4308b638d9fcfe34485807ec8fed792e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\6b188e1dca74726938a6412f33a62148\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\18536df71ae5210d9fad7c1edc38ceea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\15aec920fd2d99b461429f5e0c895a03\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\944483ba16590cc288099065740c9c9b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\020017d439e307fe64d1dd94364d3613\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\9ced1cb27aa5af1ced4bd7ee711eb88f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.khizar1556.MKVideoPlayer:ijkplayer-java:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\ee89c57766d36e62ff3d4ffa2a6f6fea\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:12:5-67
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:6:5-78
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:13:5-79
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:7:22-73
+application
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:9:5-41:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\c9b6319c0cfe0a2c8ca89f9e8b08e413\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\c9b6319c0cfe0a2c8ca89f9e8b08e413\AndroidManifest.xml:22:5-20
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:15:5-23:19
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:15:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\631271f33331761903e34839810bcd92\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\631271f33331761903e34839810bcd92\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\b5c31a081a250647ebac099ac5386fc6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\b5c31a081a250647ebac099ac5386fc6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\fedce93ee05dfc4765771507301fbfb5\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\fedce93ee05dfc4765771507301fbfb5\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\b5c31a081a250647ebac099ac5386fc6\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:11:9-38
+	android:allowBackup
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.Iptv_Aqif.akDeveloper.MainActivity
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:18:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.Iptv_Aqif.akDeveloper.PlaylistActivity
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:28:9-30:77
+	android:label
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:29:13-45
+	android:configChanges
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:28:19-76
+activity#com.Iptv_Aqif.akDeveloper.ChannelsActivity
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:32:9-34:77
+	android:label
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:32:19-76
+activity#com.Iptv_Aqif.akDeveloper.PlayerActivity
+ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:36:9-39:77
+	android:screenOrientation
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:38:13-50
+	android:label
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:37:13-45
+	android:configChanges
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml:36:19-74
+uses-sdk
+INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\c9b6319c0cfe0a2c8ca89f9e8b08e413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\c9b6319c0cfe0a2c8ca89f9e8b08e413\AndroidManifest.xml:20:5-44
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\ab77e4f6941f0a01ffae76167578d60f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\ab77e4f6941f0a01ffae76167578d60f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\631271f33331761903e34839810bcd92\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\631271f33331761903e34839810bcd92\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\816fb7149e9710d796686c9912f9d4fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\816fb7149e9710d796686c9912f9d4fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\48bd9c8c885bbc6f93107e5fa0acd89c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\48bd9c8c885bbc6f93107e5fa0acd89c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\f3a96eb496571be105756fa01c0f985b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\f3a96eb496571be105756fa01c0f985b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\a488dd1ddeb7ef3efcf854f7bab88d00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\a488dd1ddeb7ef3efcf854f7bab88d00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\bf6fcb15645fb6bc67f5846e49880f97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\bf6fcb15645fb6bc67f5846e49880f97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\6f55551d94cefef2900471477a5bf78e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\6f55551d94cefef2900471477a5bf78e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\7b2760303020ffbabb7cee96fe12f1ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\7b2760303020ffbabb7cee96fe12f1ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\924183191ae8c467049771f44cab42d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\924183191ae8c467049771f44cab42d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\ead37f360c135cb91dc1642dfc4308fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\ead37f360c135cb91dc1642dfc4308fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\d9cb4e9eb36844b8a77af9016c32b0dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\d9cb4e9eb36844b8a77af9016c32b0dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\2628cd62ce538bc7419588c0f0cdfd59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\2628cd62ce538bc7419588c0f0cdfd59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\90f3c86def8a0ae81b3936227c71efb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\90f3c86def8a0ae81b3936227c71efb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\7027bdbc6276ddbfa00eb06f60793dbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\7027bdbc6276ddbfa00eb06f60793dbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\df64f3cc7e9523baf23de8f87609e48b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\df64f3cc7e9523baf23de8f87609e48b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\49ef68910f04370afd0bdc81615e67c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\49ef68910f04370afd0bdc81615e67c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\5a7f0a2214f081fdff61f9fcaace6831\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\5a7f0a2214f081fdff61f9fcaace6831\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\b5c31a081a250647ebac099ac5386fc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\b5c31a081a250647ebac099ac5386fc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\fedce93ee05dfc4765771507301fbfb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\fedce93ee05dfc4765771507301fbfb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\42f1d5342d7f6bd50c1c51b9940a2938\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\42f1d5342d7f6bd50c1c51b9940a2938\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\c6d378205ec50bdaa51b77a7139b6754\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\c6d378205ec50bdaa51b77a7139b6754\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\f9448dc5e5a29945e23a47c347cb828a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\f9448dc5e5a29945e23a47c347cb828a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\4308b638d9fcfe34485807ec8fed792e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\4308b638d9fcfe34485807ec8fed792e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\6b188e1dca74726938a6412f33a62148\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\6b188e1dca74726938a6412f33a62148\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\18536df71ae5210d9fad7c1edc38ceea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\18536df71ae5210d9fad7c1edc38ceea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\15aec920fd2d99b461429f5e0c895a03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\15aec920fd2d99b461429f5e0c895a03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\944483ba16590cc288099065740c9c9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\944483ba16590cc288099065740c9c9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\020017d439e307fe64d1dd94364d3613\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\020017d439e307fe64d1dd94364d3613\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\9ced1cb27aa5af1ced4bd7ee711eb88f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\9ced1cb27aa5af1ced4bd7ee711eb88f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.khizar1556.MKVideoPlayer:ijkplayer-java:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\ee89c57766d36e62ff3d4ffa2a6f6fea\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.khizar1556.MKVideoPlayer:ijkplayer-java:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\ee89c57766d36e62ff3d4ffa2a6f6fea\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IPTV-Android-master\IPTV-Android-master\app\src\main\AndroidManifest.xml
+activity#com.khizar1556.mkvideoplayer.MKPlayerActivity
+ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:19:9-22:50
+	android:screenOrientation
+		ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:22:13-47
+	android:configChanges
+		ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:21:13-74
+	android:name
+		ADDED from [com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5] C:\Users\Aqif Khattak\.gradle\caches\transforms-2\files-2.1\be424eee164ef0261ef065546f28f54f\AndroidManifest.xml:20:13-73
